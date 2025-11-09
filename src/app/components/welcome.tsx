@@ -10,17 +10,22 @@ export default function Welcome() {
         <div className="flex items-center justify-center mt-3">
           <Link
             href="https://www.github.com/chriswolfdesign"
-            className="hover:border-cyan-200 hover:border-4 p-2 hover:rounded-md hover:bg-sky-800"
+            className="hover:border-cyan-200 p-2 hover:rounded-md hover:bg-sky-800"
           >
             <FaGithub className="text-3xl" />
           </Link>
           <Link
             href="https://www.linkedin.com/in/chriswolftech"
-            className="hover:border-cyan-200 hover:border-4 p-2 hover:rounded-md hover:bg-sky-800"
+            className="hover:border-cyan-200 p-2 hover:rounded-md hover:bg-sky-800"
           >
             <FaLinkedin className="text-3xl" />
           </Link>
         </div>
+        <Link href="#about-tag">
+          <div className="bg-cyan-200 text-sky-950 p-2 rounded-md font-bold hover:cursor-pointer hover:bg-cyan-300">
+            Continue
+          </div>
+        </Link>
       </div>
     </div>
   );
