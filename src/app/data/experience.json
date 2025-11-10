@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "Durham, NC",
+    "tenure": "July 2024 - present",
+    "accomplishments": [
+      "Created metric dashboards that provided internal users visible access to their CPU usage, thread usage, and many other details.",
+      " Developed functionality to alert internal users when their pods have high levels of variance in resource usage, allowing users to better optimize their clusters",
+      "Optimized cache system for taking internal user input, allowing branching cache action based on size of input"
+    ],
+    "skills": [
+      "C++",
+      "System Design",
+      "Container Orchestration",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "IBM",
+    "location": "Durham, NC",
+    "tenure": "Aug 2021 - July 2024",
+    "accomplishments": [
+      "Stabilized our distributed product by developing extensive end-to-end tests",
+      "Designed and developed the CI/CD pipeline to allow for convenient and confident workflow",
+      "Decreased throughput time of information across system by 30% by converting from JSON to gRPC payloads",
+      "Planned, designed, and implemented a globalization system, allowing for product access in 6 additional languages",
+      "Collaborated with colleagues on designing a code style standard to ensure consistent and reliable code bases"
+    ],
+    "skills": [
+      "Golang",
+      "Kubernetes",
+      "Docker",
+      "Container Orchestration",
+      "Testing",
+      "CI/CD",
+      "Microservices"
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Quoin Inc",
+    "location": "Davidson, NC",
+    "tenure": "May 2020 - Aug 2021",
+    "accomplishments": [
+      "Worked across a variety of projects from frontend to backend",
+      "Converted an existing JavaScript application to React, increasing user satisfaction by 20%",
+      "Developed a secure payment system that could be used across multiple projects through distributed systems"
+    ],
+    "skills": [
+      "Java",
+      "JavaScript/TypeScript",
+      "React",
+      "Docker",
+      "Container Orchestration",
+      "Microservices"
+    ]
+  }
+]

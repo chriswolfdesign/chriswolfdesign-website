@@ -1,6 +1,7 @@
 import About from "./components/about";
 import Technologies from "./components/techologies";
 import Welcome from "./components/welcome";
+import Experience from "./components/experience";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       </div>
       <About />
       <Technologies />
+      <Experience />
     </div>
   );
 }
