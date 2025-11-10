@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Docker",
+    "link": "/technology_images/docker.png"
+  },
+  {
+    "name": "Git",
+    "link": "/technology_images/git.png"
+  },
+  {
+    "name": "Go",
+    "link": "/technology_images/golang.png"
+  },
+  {
+    "name": "JavaScript",
+    "link": "/technology_images/javascript.png"
+  },
+  {
+    "name": "Linux",
+    "link": "/technology_images/linux.png"
+  },
+  {
+    "name": "NextJS",
+    "link": "/technology_images/nextjs.png"
+  },
+  {
+    "name": "Python",
+    "link": "/technology_images/python.png"
+  },
+  {
+    "name": "React",
+    "link": "/technology_images/react.png"
+  },
+  {
+    "name": "TypeScript",
+    "link": "/technology_images/typescript.png"
+  },
+  {
+    "name": "Vercel",
+    "link": "/technology_images/vercel.png"
+  }
+]

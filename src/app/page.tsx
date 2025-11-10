@@ -1,4 +1,5 @@
-import About from "./about";
+import About from "./components/about";
+import Technologies from "./components/techologies";
 import Welcome from "./components/welcome";
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
         <Welcome />
       </div>
       <About />
+      <Technologies />
     </div>
   );
 }

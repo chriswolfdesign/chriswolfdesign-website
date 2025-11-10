@@ -2,12 +2,12 @@ import Image from "next/image";
 
 export default function About() {
   return (
-    <div className="pl-10 pb-5 pr-10">
-      <h1 id="about-tag" className="font-bold text-3xl">
+    <div className="pl-20 pr-10 pb-10">
+      <h1 id="about-tag" className="font-bold text-3xl pb-10">
         About Chris
       </h1>
       <div className="md:flex m-auto mt-3">
-        <div className="min-w-1/2 flex items-center justify-center">
+        <div className="min-w-1/3 flex items-center justify-center">
           <Image
             src="/about_photo.jpg"
             alt="Picture of Chris"
@@ -16,7 +16,7 @@ export default function About() {
             height={400}
           />
         </div>
-        <div className="min-w-1/2">
+        <div className="min-w-2/3">
           <p className="mb-5">
             Chris has enjoyed 5 years of experience as a software engineer. He
             has held positions at multiple prestigious companies such as Google
