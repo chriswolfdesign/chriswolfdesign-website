@@ -7,7 +7,7 @@ export default function ExperienceItem(props: {
     props.experience;
 
   return (
-    <div>
+    <div className="border-2 mb-3 p-2 rounded-md hover:bg-sky-800">
       <div className="flex flex-row justify-between">
         <div>
           <h1 className="font-bold text-2xl">{company}</h1>
