@@ -11,3 +11,12 @@ export type ExperienceItemType = {
   accomplishments: string[];
   skills: string[];
 };
+
+export type ProjectItemType = {
+  title: string;
+  github_link: string;
+  live_link?: string;
+  image: string;
+  snippets: string[];
+  skills: string[];
+};

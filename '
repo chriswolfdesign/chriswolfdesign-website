@@ -1,0 +1,18 @@
+import { ProjectItemType } from "../types";
+
+export default function ProjectItem(props: { project: ProjectItemType; }) {
+  const { title, github_link, live_link, image, snippets, skills } = props.project
+
+  return (
+    <div className="flex flex-row justify-between">
+      <div>
+        This is where the image will go
+      </div>
+      <div>
+        <div className="flex flex-row">
+          <h1 className="font-bold text-2xl">{title}</h1>
+        </div>
+      </div>
+    </div>
+  )
+}

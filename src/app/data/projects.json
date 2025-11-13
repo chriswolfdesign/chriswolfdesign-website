@@ -1,0 +1,34 @@
+[
+  {
+    "title": "ChrisWolfDesign Website",
+    "github_link": "https://www.github.com/chriswolfdesign/chriswolfdesign-website",
+    "live_link": "localhost:3000",
+    "image": "/project_images/chriswolfdesign-website.png",
+    "snippets": [
+      "You are looking at it now!",
+      "Landing page for people to view information about me as a software enginner",
+      "Provides new friends and colleagues access to my experience and projects",
+      "Provides potential new clients with a way to contact me"
+    ],
+    "skills": ["JavaScript/TypeScript", "NextJS", "Vercel", "Tailwind"]
+  },
+  {
+    "title": "Point Me!",
+    "github_link": "https://www.chriswolfdesign.com/pointme-nextjs",
+    "image": "/project_images/pointme.png",
+    "snippets": [
+      "Work in progess!  Come check it out soon!",
+      "A todo app that will help you determine which work item you should focus on next",
+      "Set priorites of work items to allow app to point you to your most important work item",
+      "Upcoming features include due dates, custom priority levels, and Google Calendar syncing"
+    ],
+    "skills": [
+      "JavaScript/TypeScript",
+      "NextJS",
+      "Vercel",
+      "Tailwind",
+      "SQL",
+      "Supabase"
+    ]
+  }
+]

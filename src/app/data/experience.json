@@ -6,7 +6,7 @@
     "tenure": "July 2024 - present",
     "accomplishments": [
       "Created metric dashboards that provided internal users visible access to their CPU usage, thread usage, and many other details.",
-      " Developed functionality to alert internal users when their pods have high levels of variance in resource usage, allowing users to better optimize their clusters",
+      "Developed functionality to alert internal users when their pods have high levels of variance in resource usage, allowing users to better optimize their clusters",
       "Optimized cache system for taking internal user input, allowing branching cache action based on size of input"
     ],
     "skills": [
