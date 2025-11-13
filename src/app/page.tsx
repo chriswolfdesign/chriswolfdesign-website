@@ -1,5 +1,5 @@
 import About from "./components/about";
-import Technologies from "./components/techologies";
+import Technologies from "./components/technologies";
 import Welcome from "./components/welcome";
 import Experience from "./components/experience";
 
